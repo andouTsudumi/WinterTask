@@ -24,14 +24,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\main6.cpp">
-      <Filter>ソース ファイル\6</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\main7.cpp">
-      <Filter>ソース ファイル\7</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\..\Downloads\main8.cpp">
       <Filter>ソース ファイル\8</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.cpp">
+      <Filter>ソース ファイル\7</Filter>
+    </ClCompile>
+    <ClCompile Include="main6.cpp">
+      <Filter>ソース ファイル\6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
