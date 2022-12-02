@@ -19,19 +19,19 @@
     <Filter Include="ソース ファイル\7">
       <UniqueIdentifier>{5ce590a1-0cc4-4692-86c2-8663886a6f96}</UniqueIdentifier>
     </Filter>
-    <Filter Include="ソース ファイル\8">
-      <UniqueIdentifier>{2dd96151-334c-4549-9a78-3590658ceb83}</UniqueIdentifier>
+    <Filter Include="ソース ファイル\2">
+      <UniqueIdentifier>{0271be01-e66a-47b3-beef-0e8c1fbdb9bf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\main8.cpp">
-      <Filter>ソース ファイル\8</Filter>
-    </ClCompile>
     <ClCompile Include="main7.cpp">
       <Filter>ソース ファイル\7</Filter>
     </ClCompile>
     <ClCompile Include="main6.cpp">
       <Filter>ソース ファイル\6</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>ソース ファイル\2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
